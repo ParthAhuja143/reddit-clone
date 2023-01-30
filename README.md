@@ -10,6 +10,11 @@ npm run dev
 yarn dev
 ```
 
+<img width="1440" alt="Screenshot 2023-01-31 at 12 00 59 AM" src="https://user-images.githubusercontent.com/43706009/215564454-8e618cbe-09c9-4276-ad82-a09ebae45476.png">
+
+<img width="1440" alt="Screenshot 2023-01-31 at 12 01 38 AM" src="https://user-images.githubusercontent.com/43706009/215564482-769b22ab-abf4-4eb6-b33e-dcd2f718f1ac.png">
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
